@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\StudioProjects\\geminiai_flutter-main\\.dart_tool\\flutter_build\\fbe5cdc9e1a23aa5d91ecbf491a90e86\\native_assets.yaml: 
